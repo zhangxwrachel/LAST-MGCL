@@ -1,0 +1,184 @@
+
+
+
+Namespace(device='cuda:0', seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=50, lr=0.01, weight_decay=0.0, batch_size=4, sample_size=2000, patience=100, sparse=True, input_dim=500, gnn_dim=512, proj_dim=512, proj_hid=4096, pred_dim=512, pred_hid=4096, momentum=0.8, beta=0.6, alpha=0.5, gamma=0.05, drop_edge=0.4, drop_feat1=0.4, drop_feat2=0.4, gpu=0, num_heads=4, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, negative_slope=0.2)
+
+
+
+Namespace(device='cuda:0', seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=50, lr=0.01, weight_decay=0.0, batch_size=4, sample_size=2000, patience=100, sparse=True, input_dim=500, gnn_dim=512, proj_dim=512, proj_hid=4096, pred_dim=512, pred_hid=4096, momentum=0.8, beta=0.6, alpha=0.5, gamma=0.05, drop_edge=0.4, drop_feat1=0.4, drop_feat2=0.4, gpu=0, num_heads=4, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, negative_slope=0.2)
+
+
+
+Namespace(device='cuda:0', seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=100, lr=0.01, weight_decay=0.0, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pred_hid=4096, momentum=0.8, beta=0.4, alpha=0.5, gpu=0, num_heads=5, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=100, lr=0.01, weight_decay=0.0, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pred_hid=4096, momentum=0.8, beta=0.4, alpha=0.5, gpu=0, num_heads=5, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=100, lr=0.01, weight_decay=0.0, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pred_hid=4096, momentum=0.8, beta=0.4, alpha=0.5, gpu=0, num_heads=5, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
+
+
+
+Namespace(device='cuda:0', latent_size=10, seed=2024, dataset='pubmed', runs=1, eval_every=10, epochs=2000, lr=0.01, batch_size=5, sample_size=2000, patience=100, sparse=True, input_dim=19717, proj_dim=512, proj_hid=4096, pred_dim=512, pretrain_lr=0.01, pred_hid=4096, momentum=0.8, beta=0.3, conditional=True, alpha=0.5, gpu=0, num_heads=2, num_layers=1, num_hidden=128, tau=1, in_drop=0.6, attn_drop=0.5, weight_decay=0.0001, negative_slope=0.2, cuda=True)
